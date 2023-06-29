@@ -29,6 +29,7 @@ URL: https://codecept.io/mobile/#configuring
 - Andoid Studio 
 - Xcode (Mac)
 - Vs Code
+- Emulador
 
 ### Commad:
 ```
