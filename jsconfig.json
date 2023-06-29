@@ -1,0 +1,9 @@
+{
+  "include": [
+    "./node_modules",
+    "**/*.*"
+  ],
+  "compilerOptions": {
+    "allowJs": true
+  }
+}
